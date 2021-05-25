@@ -1,7 +1,7 @@
 # Stock-Scraper
 Some *messy* python scripts that I wrote and/or compiled from various sources for personal use
 
-This code contains numerous methods to scrape financial data and rankings for given stock inputs. This data can be used to analyze trends, find out which financial rankings are more accurate over time, and more(These methods aren't in this repository).
+This code contains methods to scrape financial data and rankings for given stock inputs. This data can be used to analyze trends, find out which financial rankings are more accurate over time, and more(These methods aren't in this repository).
 
 If you do "python scrapeHelper.py" It'll save the zacks and yahoo rankings for a given list of stock symbols to a single file (20 max at the moment)
 
